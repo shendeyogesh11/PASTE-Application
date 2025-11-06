@@ -61,7 +61,7 @@ const Home = () => {
         />
 
         <button onClick={createPaste} className=" p-2 rounded-md mt-2">
-          {pasteId ? "Update Paste" : "Create Paste"}
+          {pasteId ? "Update My Paste" : "Create My Paste"}
         </button>
       </div>
 
